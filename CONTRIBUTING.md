@@ -81,7 +81,7 @@ Example article: [pull request](https://github.com/DXHeroes/knowledge-base/blob/
   - Everything behind the second `---` (triple dash)
   - **headlines**
     - The first H1 is recognized as the name of the article
-    - We want to keep similar structure of all articles informing about the practice or problem. So we require to keep only few specific H2 headings:
+    - We want to keep a similar structure of all articles informing about the practice or problem. So we require to keep only few specific H2 headings:
       - `What Is a %{name}`
       - `Why You Might Want the %{name}`
       - `Problems the %{name} Helps to Solve`
