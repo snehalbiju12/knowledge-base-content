@@ -24,7 +24,7 @@ TypeScript is a new way to write JavaScript. It was designed to develop large Ja
 
 ## What Is TypeScript
 
-TypeScript is an offspring of JavaScript and it was created to develop large applications and to improve weaknesses of JavaScript. Developers are making quite a fuss about TypeScript since its founding in 2012. It is definitely a programming language on the rise. As a superset of JavaScript, you can basically rename .js files to .ts files and start using TypeScript. So why do we need TypeScript when we already have JavaScript? **What is the difference?**
+TypeScript is an offspring of JavaScript and it was created to develop large applications and to improve weaknesses of JavaScript. Developers are making quite a fuss about TypeScript since its founding in 2012. It is definitely a programming language on the rise. As a superset of JavaScript, you can rename .js files to .ts files and start using TypeScript. So why do we need TypeScript when we already have JavaScript? **What is the difference?**
 
 **JavaScript**
 
